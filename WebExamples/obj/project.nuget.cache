@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "40YDzH6Js6UKqz2Ari1/xy+BEwV2iHet1iPF5dTT6h3Jr6hsjoMiF9vIhMQEbbPazqoKpNioWEBwdaXr2G8maw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\Visual Studio 2019\\Projects\\WebExamples\\WebExamples\\WebMovies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
